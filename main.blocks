@@ -1,0 +1,37 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="QFrR)]K3o0s@G-A-*;E1" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id=")DF`[aTo^|iWp6)1CypP"><value name="text"><shadow type="text" id="iTe(KWSXK[?7W-^@yU)R"><field name="TEXT">Hello!</field></shadow></value></block></statement></block><block type="device_forever" id="y?aWGSii%sd%UrHkL`/U" x="277" y="8"><statement name="HANDLER"><block type="device_show_leds" id="}};V=y]WUNWH|nCEjX^E"><field name="LEDS">`
+        . # . . . 
+        . # . . . 
+        . # . . . 
+        . # . . . 
+        . # # # .
+        `</field><next><block type="device_show_leds" id="x:g1~`=jqWB?iCY{uPSJ"><field name="LEDS">`
+        . . # . . 
+        . # . # . 
+        . # # # . 
+        . # . # . 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="VkV_k|rU]Va/1sJ#L;oC"><field name="LEDS">`
+        . . # . . 
+        . # . # . 
+        . # . # . 
+        . # . # . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id=".]lFnriBNkR!HPVaj@Jd"><field name="LEDS">`
+        . # # # . 
+        . # . . . 
+        . # # # . 
+        . . . # . 
+        . # # # .
+        `</field><next><block type="device_show_leds" id="@ys,SJ@cxOyiT.^/#0iJ"><field name="LEDS">`
+        . # . # . 
+        . # . # . 
+        . # # # . 
+        . # . # . 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="+|.?)zk0xX@+x]9fBfeY"><field name="LEDS">`
+        . # # # . 
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . # # # .
+        `</field><next><block type="device_pause" id="apG~gI1:]jf[AQVG_~nN"><value name="pause"><shadow type="timePicker" id="Qi:CEtVH{2#L4ii_%(yU"><field name="ms">2000</field></shadow></value><next><block type="device_print_message" id="abE@~CZHR@.9QG?)NbC%"><value name="text"><shadow type="text" id=".F.l,=]3]6k{YR.#3h=C"><field name="TEXT">12 YRS OLD</field></shadow></value><next><block type="device_pause" id="#9LgX(W{kH)50.|LH?q%"><value name="pause"><shadow type="timePicker" id="Wqg_IM!YJC:p8K:Un(q@"><field name="ms">2000</field></shadow></value><next><block type="basic_show_icon" id="$m@j8-,w(-6uh#yXeHDs"><field name="i">IconNames.Happy</field><next><block type="device_clear_display" id="=4R8R(S`sbM[u!OeWo*v"></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
